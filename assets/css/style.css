@@ -150,6 +150,10 @@
     box-shadow: #000000;
 }
 
+.HOME {
+    color: #000000;
+}
+
 .cursor {
     cursor: pointer;
 }
