@@ -583,15 +583,6 @@ input {
         font-size: 12px;
     }
 
-    .post-comment {
-        width: 504px;
-        height: 40px;
-    }
-
-    .margin-7 {
-        margin: 15px;
-    }
-
     .gap-18 {
         gap: 50px;
     }
@@ -599,6 +590,9 @@ input {
     .pt-12 {
         padding-top: 5px;
     }
+
+    .post-comment {
+        width: 400px;}
 }
 
 @media (min-width:576px) {
@@ -612,6 +606,10 @@ input {
 
     .w-163 {
         width: 163px;
+    }
+
+    .post-comment {
+        width: 270px;
     }
 }
 
